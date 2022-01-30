@@ -1,0 +1,288 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+.oneBox
+{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
+.plogo
+{
+	margin-top: 30px;
+	font-size: 32px;
+	position: absolute;
+	top: 0px;
+	margin-left: 200px;
+	color: white;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+.navone
+{
+	display: inline-block;
+	width: 700px;
+	height: 100%;
+}
+.navtwo
+{
+	display: inline-block;
+	text-align: center;
+	background-color: black;
+	width: 600px;
+	height: 100%;
+}
+td{
+	padding: 10px;
+	cursor: pointer;
+}
+.twoBox
+{
+	width: 100%;
+	height: 420px;
+	background-image: url('images/background.gif');
+	background-size: cover;
+}
+.centerBox
+{
+	width: 250px;
+	height: 60px;
+	background-color: black;
+	position: absolute;
+	color: white;
+	border-radius: 20px;
+	bottom: 375px;
+	font-size: 28px;
+	left: 42%;
+	display: inline-block;
+	text-transform: uppercase;
+	text-align: center;
+}
+.ser
+{
+    color: white;
+    margin-top: 15px;
+    display: inline-block;	
+}
+table
+{
+    width: 100%;	
+    height: 100%;
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+}
+td
+{
+	width: 20%;
+}
+td:hover
+{
+	width: 20%;
+    background-color: grey;
+}
+.imgcontainer
+{
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+	border-radius: 50%;
+}
+.pcontainer
+{
+	background-color: red;
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 50px;
+	margin-top: 10px;
+}
+.containerBox
+{
+	width: 355px;
+	margin-top: 10px;
+	height: 400px;
+	background-color: white;
+	margin-left: 10px;
+	text-align: center;
+	margin-right: 5px;
+	display: inline-block;
+}
+.threeBox
+{
+	width: 100%;
+	height: 430px;
+	background-color: grey;
+}
+.fourBox
+{
+	width: 100%;
+	height: 540px;
+	background-color: darkslateblue;
+}
+.fourBoxOne
+{
+	width: 100%;
+	height: 100px;
+}
+.fourBoxTwo
+{
+	width: 100%;
+	height: 440px;
+	text-align: center;
+}
+.shiftone
+{
+	display: inline-block;
+	font-size: 36px;
+	font-family: fantasy;
+	margin-top: 25px;
+	margin-left: 60px;
+	font-weight: bold;
+	color: orange;
+	float: left;
+}
+.shifttwo
+{
+	display: inline-block;
+	background-color: purple;
+	font-size: 28px;
+	border-radius: 30px;
+	font-family: fantasy;
+	margin-top: 25px;
+	text-transform: capitalize;
+	margin-right: 60px;
+	float: right;
+	color: white;
+	padding: 10px;
+}
+.subcontainer
+{
+   height: 360px;
+   width: 477px;
+   margin: 10px;
+   margin-top: 30px;
+   background-color: black;
+   display: inline-block;
+   outline: 5px solid white;
+}
+.subimage
+{
+   height: 200px;
+   width: 400px;
+   padding-top: 40px;
+   border-radius: 20px;
+}
+.h2tag
+{
+   font-size: 28px;
+   color: white;
+   margin-top: 40px;
+   text-transform: uppercase;
+}
+.fiveBox
+{
+	width: 100%;
+	height: 800px;
+	background-color: green;
+}
+.fiveBoxOne
+{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+	text-align: center;
+}
+.fiveBoxTwo
+{
+	width: 100%;
+	height: 500px;
+	background-color: black;
+	text-align: center;
+}
+.fiveBoxThree
+{
+	width: 100%;
+	height: 100px;
+	background-color: red;
+	text-align: center;
+}
+.lastimg
+{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	margin-top: 10px;
+	padding-left: 10px;
+}
+
+.fiveh1
+{
+     margin-top: 10px;
+     margin-bottom: 10px;
+}
+
+.fivep
+{
+     text-align: justify;
+     padding-left: 50px;
+     padding-right: 50px;
+     font-size: 24px;
+}
+
+.sixBox
+{
+	width: 100%;
+	height: 120px;
+	background-color: blue;
+	text-align: center;
+}
+
+.menuBox
+{
+	font-size: 32px;
+	color: white;
+	position: relative;
+	top: 40px;
+}
+.textDiv
+{
+	background-color: white;
+	width: 350px;
+	margin-top: 50px;
+	margin-left: 20px;
+	display: inline-table;
+	height: 400px;
+}
+span
+{
+	background-color: black;
+	color: white;
+	float: right;
+	margin-right: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	position: relative;
+	bottom: 0px;
+	right: 0;
+	padding-bottom: 10px;
+	font-size: 18px;
+	border-radius: 20px;
+}
+
+.texth1
+{
+   padding: 20px;
+}
+.textp	
+{
+	padding: 20px;
+	text-align: justify;
+	font-size: 18px;
+}
